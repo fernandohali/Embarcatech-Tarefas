@@ -1,2 +1,2 @@
 # Embarcatech-Tarefas
-Tarefa: depuração e versionamento
+Tarefa: Conversor de temperatura e tempo
